@@ -190,7 +190,7 @@
     },
     {
       "questions": "hi",
-      "awnser": "skio"
+      "awnser": "Hi, How can I assist you today"
     },
     {
       "questions": "who is rizwan",
@@ -206,7 +206,7 @@
     },
     {
       "questions": "python",
-      "awnser": "python is a readalbe and powerful language"
+      "awnser": "python is a readeable and powerful language"
     }
   ]
 }
